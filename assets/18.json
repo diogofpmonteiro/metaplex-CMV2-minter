@@ -1,0 +1,54 @@
+{
+  "name": "Crypto Investors Club #18",
+  "symbol": "CIC",
+  "description": "Cool club, join our dao to make good investments.",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "https://www.ourvercelapp.vercel.com?",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DLqL9bnvVEM3aqSn7c3PwdBbY8W2ysr5aFuQeky1qkv2",
+        "share": 100
+      }
+    ]
+  }
+}
